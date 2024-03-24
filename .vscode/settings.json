@@ -1,3 +1,4 @@
 {
-  "eslint.run": "onSave"
+  "eslint.run": "onSave",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
